@@ -131,6 +131,20 @@ export const mockData = {
           "url": "https://www.itdog.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "youtube",
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
+          "description": "视频分享平台",
+          "icon": "/sitelogo/www.youtube.com.ico"
         }
       ]
     },
@@ -164,28 +178,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "cloud",
-      "name": "云服务",
-      "icon": "☁️",
-      "order": 2,
-      "sites": [
-        {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "dev-tools",
-      "name": "开发工具",
-      "icon": "🛠️",
-      "order": 3,
-      "sites": []
-    },
-    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
@@ -208,27 +200,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 4,
-      "sites": []
-    },
-    {
-      "id": "finance",
-      "name": "财经投资",
-      "icon": "💰",
-      "order": 5,
-      "sites": []
-    },
-    {
-      "id": "learning",
-      "name": "学习资源",
-      "icon": "📚",
-      "order": 6,
-      "sites": []
-    },
-    {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
@@ -240,25 +211,8 @@ export const mockData = {
       "name": "娱乐休闲",
       "icon": "🎮",
       "order": 8,
-      "sites": [
-        {
-          "id": "youtube",
-          "name": "YouTube",
-          "url": "https://www.youtube.com",
-          "description": "视频分享平台",
-          "icon": "/sitelogo/www.youtube.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 9,
       "sites": []
     }
   ],
-  "title": "小熊导航",
-  "_fileSha": "b0c0a7181ec715986cc697e5e0c093533b8dff9d",
-  "search": "duckduckgo"
+  "title": "猫猫导航🐱"
 }
