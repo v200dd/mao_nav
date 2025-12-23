@@ -258,5 +258,7 @@ export const mockData = {
       "sites": []
     }
   ],
-  "title": "猫猫导航🐱"
+  "title": "猫猫导航🐱",
+  "_fileSha": "10aa056fae7027566a38e867baf5af19a3cb6f5f",
+  "search": "duckduckgo"
 }
